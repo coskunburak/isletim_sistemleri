@@ -1,3 +1,9 @@
+/**
+    Burak Coskun
+    Furkan Demirelli
+    Eren Ozan Özmen
+ */
+
 #include "parser.h"
 
 /**
