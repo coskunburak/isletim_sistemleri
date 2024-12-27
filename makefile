@@ -1,3 +1,4 @@
+#Burak Coskun	Furkan Demirelli	Eren Ozan Özmen
 shell: lib/main.o lib/builtin.o lib/execute.o lib/parser.o lib/signals.o
 	gcc lib/main.o lib/builtin.o lib/execute.o lib/parser.o lib/signals.o -o bin/shell
 
