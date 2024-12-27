@@ -1,3 +1,9 @@
+/**
+    Burak Coskun
+    Furkan Demirelli
+    Eren Ozan Özmen
+ */
+
 #include "builtin.h"
 
 int handle_builtin(Command *cmd) {
