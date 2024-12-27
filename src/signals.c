@@ -1,3 +1,9 @@
+/**
+    Burak Coskun
+    Furkan Demirelli
+    Eren Ozan Özmen
+ */
+
 #include "signals.h"
 
 static void sigchld_handler(int signo) {
