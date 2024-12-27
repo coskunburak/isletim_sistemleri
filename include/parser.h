@@ -1,3 +1,9 @@
+/**
+    Burak Coskun
+    Furkan Demirelli
+    Eren Ozan Özmen
+ */
+
 #ifndef PARSER_H
 #define PARSER_H
 
